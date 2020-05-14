@@ -412,7 +412,7 @@
                 <sorted>false</sorted>
                 <value>
                     <fullName>Gold</fullName>
-                    <default>true</default>
+                    <default>false</default>
                     <label>Gold</label>
                 </value>
                 <value>
